@@ -1,0 +1,1 @@
+{"users":[{"user":"dani","password":"montilla","id":"user_1"}],"items":[{"itemName":"Notebook HP Performa","itemNotes":"Esta notebook no es muy buena.","itemBattery":true,"itemBatteryLastChecked":"10/13/2021","id":"item_1"},{"itemName":"Notebook Acer Top 1050","itemNotes":"Muy buena notebook. Tiene intel i7","itemBattery":false,"itemBatteryLastChecked":false,"id":"item_2"}]}
