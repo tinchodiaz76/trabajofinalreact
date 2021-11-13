@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>Manual backend trabajo final react</title>
+<style>
+    html,body{
+        font-family: Arial, Helvetica, sans-serif;
+    }
+    .endpoint{
+
+    }
+</style>
+</head>
+<body>
+<h2>Manual backend trabajo final react</h2>
+<p>El proyecto será un inventario de productos</p>
+<p>Este backend guarda productos que se agreguen en un archivo "memory.json" en la carpeta del backend</p>
+<p>Estos productos se pueden agregar y editar</p>
+<div class="endpoint">
+    <h3>/files</h3>
+    <p>Tipo: GET, devuelve el json con todos los productos</p>
+</div>
+<div class="endpoint">
+    <h3>/add</h3>
+    <p>Tipo: POST, header requiere "content-type: application/json", recibe un json con el producto y le inserta un id incremental</p>
+</div>
+<div class="endpoint">
+    <h3>/edit</h3>
+    <p>Tipo: POST, header requiere "content-type: application/json", recibe un json con el producto y debe tener una propiedad "id" con el id del producto a editar</p>
+</div>
+<div class="endpoint">
+    <h3>/register</h3>
+    <p>Tipo: POST, header requiere "content-type: application/json", recibe un json con <strong>user</strong> y <strong>password</strong> para registrarlo en la memoria</p>
+</div>
+<div class="endpoint">
+    <h3>/login</h3>
+    <p>Tipo: POST, header requiere "content-type: application/json", recibe un json con <strong>user</strong> y <strong>password</strong> y devuelve ok si los datos validan o error si no validan</p>
+</div>
+</body>
+</html>

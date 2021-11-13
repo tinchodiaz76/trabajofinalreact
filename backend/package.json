@@ -1,0 +1,15 @@
+{
+  "name": "inventario-backend",
+  "version": "1.0.0",
+  "description": "backend para proyecto inventario (trabajo final curso react)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Matias Lopez Furst y Marín Facundo Diaz",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}

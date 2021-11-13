@@ -1,0 +1,26 @@
+1.-
+npm install @material-ui/core
+npm install @material-ui/icons
+
+2.-
+npm i axios --save
+
+3.-
+npm i --save react-router-dom --save
+
+4.-
+npm i react-bootstrap --save
+
+npm uninstall react-bootstrap --save
+
+5.-
+npm install react-redux	--save
+
+npm install --save redux-devtools-extension
+
+6-
+npm install formik --save
+
+7.-
+npm install yup --save
+
