@@ -3,6 +3,16 @@
 - Frontend (React/Redux)
 - Backend (Node/Express)
 
+## Descripcion
+
+El proyecto se trata de un inventario de PC's, el mismo consta de un login, y  de un ABM para mantener dicho inventario.
+
+Para acceder:
+
+Usuario: dani 
+
+Paswword: montilla
+
 ## Backend
 
 ### Instalación
