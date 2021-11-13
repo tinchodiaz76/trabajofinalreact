@@ -13,6 +13,10 @@ Usuario: dani
 
 Paswword: montilla
 
+## Editar un Item
+
+Para editar un Item ya cargada, se debera presionar el lapiz,que figura junto al titulo del mismo
+
 ## Backend
 
 ### Instalación
